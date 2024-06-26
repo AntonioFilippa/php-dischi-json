@@ -1,0 +1,51 @@
+[
+    {
+        "title": "New Jersey",
+        "author": "Bon Jovi",
+        "year": 1988,
+        "poster": "https://images-na.ssl-images-amazon.com/images/I/51sBr4IWDwL.jpg",
+        "genre": "Rock",
+        "description": "New Jersey è il quarto album in studio del gruppo musicale statunitense Bon Jovi, pubblicato il 19 settembre 1988 dalla Mercury Records. L'album è stato prodotto da Bruce Fairbairn e registrato presso i Little Mountain Sound Studios di Vancouver, in Canada."
+    },
+    {
+        "title": "Live at Wembley 86",
+        "author": "Queen",
+        "year": 1992,
+        "poster": "https://images-na.ssl-images-amazon.com/images/I/71g40mlbinL._AC_SY355_.jpg",
+        "genre": "Rock",
+        "description": "Live at Wembley '86 è un album live del gruppo musicale britannico Queen, pubblicato il 26 maggio 1992 dalla Parlophone in Europa e dalla Hollywood Records negli Stati Uniti. L'album è stato registrato il 12 luglio 1986 durante il Magic Tour al Wembley Stadium di Londra."
+
+    },
+    {
+        "title": "Ten's Summoner's Tales",
+        "author": "Sting",
+        "year": 1993,
+        "poster": "https://m.media-amazon.com/images/I/71zSeFloZqL._AC_SL1500_.jpg",
+        "genre": "Pop",
+        "description": "Ten Summoner's Tales è il quarto album in studio del cantante britannico Sting, pubblicato il 9 marzo 1993. L'album è stato registrato a Lake House, Wiltshire, Regno Unito, e a Il Palagio, Italia."
+    },
+    {
+        "title": "Steve Gadd Band",
+        "author": "Steve Gadd Band",
+        "year": 2018,
+        "poster": "https://m.media-amazon.com/images/I/81UtLzBDoEL._SS500_.jpg",
+        "genre": "Jazz",
+        "description": "Steve Gadd Band è il quinto album in studio del batterista statunitense Steve Gadd, pubblicato il 30 marzo 2018 dalla BFM Jazz. L'album è stato registrato presso il Gadd Studios di Rochester, New York."
+    },
+    {
+        "title": "Brave new World",
+        "author": "Iron Maiden",
+        "year": 2000,
+        "poster": "https://images-na.ssl-images-amazon.com/images/I/810nSIQOLiL._AC_SY355_.jpg",
+        "genre": "Metal",
+        "description": "Brave New World è il dodicesimo album in studio del gruppo musicale britannico Iron Maiden, pubblicato il 29 maggio 2000 dalla EMI. È il primo album in studio con il cantante Bruce Dickinson e il chitarrista Adrian Smith dopo il loro ritorno nel gruppo avvenuto nel 1999, e il primo con tre chitarristi."
+    },
+    {
+        "title": "One more car, one more rider",
+        "author": "Eric Clapton",
+        "year": 2002,
+        "poster": "https://images-na.ssl-images-amazon.com/images/I/81MDAIdh78L._AC_SY355_.jpg",
+        "genre": "Rock",
+        "description": "One More Car, One More Rider è un album live del chitarrista britannico Eric Clapton, pubblicato nel 2002. Il disco è stato registrato durante il tour mondiale del 2001 e contiene brani registrati durante due concerti tenuti al Staples Center di Los Angeles il 18 e 19 agosto 2001."
+    }
+]
